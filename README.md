@@ -12,6 +12,7 @@ A collection of intentionally vulnerable web applications for learning web explo
 6. SSTI Template Challenge
 7. Command Injection Challenge
 8. JWT Authentication Bypass Challenge
+9. SSRF Metadata Challenge
    
 ## Disclaimer
 
