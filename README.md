@@ -7,6 +7,7 @@ A collection of intentionally vulnerable web applications for learning web explo
 1. SQL Injection Challenge
 2. File Upload Bypass Challenge
 3. IDOR Ticket Challenge
+4. XSS Comment Challenge
 
 ## Upcoming Challenges
 
