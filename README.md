@@ -12,9 +12,7 @@ A collection of intentionally vulnerable web applications for learning web explo
 6. SSTI Template Challenge
 7. Command Injection Challenge
 8. JWT Authentication Bypass Challenge
-
-## Disclaimer
-
+   
 ## Disclaimer
 
 These challenges are intentionally vulnerable and created solely for educational purposes, security training, and ethical learning in controlled environments.
