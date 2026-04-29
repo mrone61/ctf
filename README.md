@@ -10,7 +10,7 @@ A collection of intentionally vulnerable web applications for learning web explo
 4. XSS Comment Challenge
 5. CSRF Profile Change Challenge
 6. SSTI Template Challenge
-7. Command Injection
+7. Command Injection Challenge
 
 ## Upcoming Challenges
 
