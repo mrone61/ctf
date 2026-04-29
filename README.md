@@ -13,6 +13,7 @@ A collection of intentionally vulnerable web applications for learning web explo
 7. Command Injection Challenge
 8. JWT Authentication Bypass Challenge
 9. SSRF Metadata Challenge
+10. LFI File Reader Challenge
    
 ## Disclaimer
 
