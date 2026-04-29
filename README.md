@@ -9,10 +9,10 @@ A collection of intentionally vulnerable web applications for learning web explo
 3. IDOR Ticket Challenge
 4. XSS Comment Challenge
 5. CSRF Profile Change Challenge
+6. SSTI Template Challenge
 
 ## Upcoming Challenges
 
-- SSTI
 - Command Injection
 - Authentication Bypass
 
