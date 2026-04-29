@@ -11,11 +11,16 @@ A collection of intentionally vulnerable web applications for learning web explo
 5. CSRF Profile Change Challenge
 6. SSTI Template Challenge
 7. Command Injection Challenge
-
-## Upcoming Challenges
-
-- Authentication Bypass
+8. JWT Authentication Bypass Challenge
 
 ## Disclaimer
 
-For educational purposes only.
+## Disclaimer
+
+These challenges are intentionally vulnerable and created solely for educational purposes, security training, and ethical learning in controlled environments.
+
+Do not deploy these applications on public servers or production systems.
+
+The author is not responsible for any misuse, unauthorized testing, or illegal activities conducted using these materials.
+
+Always practice security research responsibly and only test systems you own or have explicit permission to assess.
