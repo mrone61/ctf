@@ -11,7 +11,6 @@ A collection of intentionally vulnerable web applications for learning web explo
 
 ## Upcoming Challenges
 
-- XSS
 - CSRF
 - SSTI
 - Command Injection
