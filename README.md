@@ -1,19 +1,20 @@
 # Web Security CTF Challenges
 
-A collection of beginner-to-intermediate web exploitation challenges built for educational purposes.
+A collection of vulnerable web applications built for learning web exploitation.
 
 ## Available Challenges
 
-- SQL Injection
+1. SQL Injection Challenge
+2. File Upload Bypass Challenge
+
+## Upcoming Challenges
+
 - IDOR
-- File Upload Bypass
 - XSS
 - CSRF
 - Authentication Bypass
-
-## Challenge Structure
-
-Each challenge is isolated in its own folder to avoid dependency conflicts.
+- SSTI
+- Command Injection
 
 ## Disclaimer
 
