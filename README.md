@@ -8,6 +8,7 @@ A collection of intentionally vulnerable web applications for learning web explo
 2. File Upload Bypass Challenge
 3. IDOR Ticket Challenge
 4. XSS Comment Challenge
+5. CSRF Profile Change Challenge
 
 ## Upcoming Challenges
 
